@@ -6,3 +6,10 @@ body {
 a {
   color: #00B7FF;
 }
+
+.form div {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin-bottom: 1rem;
+}
